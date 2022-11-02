@@ -68,7 +68,7 @@ Some thoughts .....
 Enjoy every moment, every day
     </font>
   </h1>
- <align="center">
+ <h1 align="center">
   <font color ="green">
 Do not chase for permanent solution in a temporary life
 </h1>
