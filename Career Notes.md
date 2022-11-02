@@ -58,8 +58,8 @@ Some thoughts .....
  - Did you get your 7% increase in influence the last 3 year or the last 5 years ?
  - So what you want to do to increase the influence / leverage ?
  - How can I get noticed from the crowd ?
- - What is my Strengths 
- - https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X
+ - What is my Strengths. Spend the $10, this may be a $10 well spent...
+   - https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X
  - Also this
     - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
 
