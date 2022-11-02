@@ -13,7 +13,7 @@ Some thoughts .....
   - Career
   - Volunteer / Passion. ( not for career, $$$ or family ). P
     - Pure not for personal gains in status, career or benefits. 
-    - Just for fun, enjoyment, statistaction and giving back our blessings !!!
+    - Just for fun, enjoyment, statistaction and giving back or better sharing our blessings !!!
 - The reasonn is if Family commitments is heavy, you can cutdown your passion efforts.
 - If your family commitments slowdown, you can increase your passion
 - Same goes to career, you can be aggressive or "stay the course" as your life commitments demand
