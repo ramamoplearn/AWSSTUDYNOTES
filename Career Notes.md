@@ -6,18 +6,18 @@ This notes is a roadmap for your career progression and a way of life for you an
 Some thoughts .....
 ## One way to look at life
 - Family comes first
-- Have a meaningful work life balance
-- Be eager when as soonn as you can, be eager at a younger age
+- Have a meaningful work life balance 
+- Be eager when as satisfaction as you can, be eager at a younger age
 - My life I was rewarded to have three priorities. Three in a box !!!
   - Family
   - Career
   - Volunteer / Passion. ( not for career, $$$ or family ). P
     - Pure not for personal gains in status, career or benefits. 
     - Just for fun, enjoyment, statistaction and giving back or better sharing our blessings !!!
-- The reasonn is if Family commitments is heavy, you can cutdown your passion efforts.
+- The reason is if Family commitments is heavy, you can cutdown your passion efforts.
 - If your family commitments slowdown, you can increase your passion
 - Same goes to career, you can be aggressive or "stay the course" as your life commitments demand
-- Gain knowlwdge from books, audios, videos, blogs, talking to aquitances. 
+- Gain knowledge from books, audios, videos, blogs, talking to aquitances. 
   - Get different view points, then make your own decision... do not just take direction from anyone..
 
 ## Career Progression
