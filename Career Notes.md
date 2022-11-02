@@ -62,6 +62,7 @@ Some thoughts .....
    - https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X
  - Also this
     - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
+    - https://www.16personalities.com/free-personality-test
 
 <h1 align="center">
   <font color ="green">
