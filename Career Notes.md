@@ -85,6 +85,6 @@ Enough
 #
 #
 # R MBTI came as
-<img width="366" alt="image" src="https://user-images.githubusercontent.com/57604313/199532040-a3e4e792-9ef7-43aa-a1f9-06503af3aa19.png">
-<img width="348" alt="image" src="https://user-images.githubusercontent.com/57604313/199533421-480b03f4-a2f8-47e4-84b8-0384129809f8.png">
+| <img width="366" alt="image" src="https://user-images.githubusercontent.com/57604313/199532040-a3e4e792-9ef7-43aa-a1f9-06503af3aa19.png"> | <img width="348" alt="image" src="https://user-images.githubusercontent.com/57604313/199533421-480b03f4-a2f8-47e4-84b8-0384129809f8.png">|
+
 
