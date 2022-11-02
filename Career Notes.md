@@ -65,9 +65,9 @@ Some thoughts .....
     - https://www.16personalities.com/free-personality-test
 
 ## Life career choices
-### Enjoy every moment, every day
-### Do not chase for permanent solution in a temporary life
-### Enough
+Enjoy every moment, every day
+Do not chase for permanent solution in a temporary life
+Enough
 
 <h1 align="left">
   <font color ="green">
