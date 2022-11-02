@@ -33,5 +33,8 @@ Some thoughts .....
   - Do something extra ordinary outside of team /company, read a book
     - Get a certification
     - Gain skills in another domain
-    - Research onn inndustry trends
-    - 
+    - Research on industry trends
+   - Share share share, share your work, artifacts, do not keep it to yourselves
+     - if you look around the friends who get better jobs are who shared their work
+       - Kumud, Amol
+   -
