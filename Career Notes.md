@@ -18,7 +18,7 @@ Some thoughts .....
 
 ## Career Prgression
 - Enjoy work
-- Increase your influence at work at 15% per year
+- Increase your influence at work at 7% per year
 - If you did not increase your influence for 3 years, see to have a 45% increase in influence inn the third year
 - One way to measure influence is $$$ / Compensation
-  - So get your compensation to increase by 10-15% each year, this can be annual or cummulative every 5 years
+  - So get your compensation to increase by 7% each year, this can be annual or cummulative every 5 years
