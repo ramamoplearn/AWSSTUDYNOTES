@@ -52,4 +52,5 @@ Some thoughts .....
 - In startup where this younger gernration are going that may be different, which I have no experience
   - Open for any office man job at any kids startup... I have a few words out many years ago
     - Nothing technical, just making sure office supplies are in, toileraries are sufficient and food order will arrive in time
+    - 
 
