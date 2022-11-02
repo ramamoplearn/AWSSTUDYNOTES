@@ -60,4 +60,7 @@ Some thoughts .....
  - How can I get noticed from the crowd ?
  - What is my Strengths 
  - https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X
+ - Also this
+    - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
+
 
