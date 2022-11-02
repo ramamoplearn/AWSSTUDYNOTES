@@ -63,7 +63,7 @@ Some thoughts .....
  - Also this
     - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
 
-<p align="center">
+<h1 align="center">
 # Enjoy every moment, every day
 # Do not chase for permanent solution in a temporary life
-</p>
+</h1>
