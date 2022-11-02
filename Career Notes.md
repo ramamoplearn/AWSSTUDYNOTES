@@ -17,7 +17,7 @@ Some thoughts .....
 - The reason is if Family commitments is heavy, you can cutdown your passion efforts.
 - If your family commitments slowdown, you can increase your passion
 - Same goes to career, you can be aggressive or "stay the course" as your life commitments demand
-- Gain knowledge from books, audios, videos, blogs, talking to aquitances. 
+- Gain knowledge from books, audios, videos, blogs, discusing with acquaintances 
   - Get different view points, then make your own decision... do not just take direction from anyone..
 
 ## Career Progression
@@ -33,7 +33,7 @@ Some thoughts .....
 - Friday work on your increasing your knowledge / skill
   - Help another team member in their work
   - Show your work to other, help others with your artifacts
-  - Colloborate for the team / company, generate a template, generate a process, simplify a process
+  - explanatory for the team / company, generate a template, generate a process, simplify a process
   - Do something extra ordinary outside of team /company, read a book
     - Get a certification
     - Gain skills in another domain
