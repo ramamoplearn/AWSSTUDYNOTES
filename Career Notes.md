@@ -37,4 +37,4 @@ Some thoughts .....
    - Share share share, share your work, artifacts, do not keep it to yourselves
      - if you look around the friends who get better jobs are who shared their work
        - Kumud, Amol
-   -
+   - In America, you have to work without title, then title, $$$ will follow
