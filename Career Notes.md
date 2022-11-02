@@ -15,6 +15,8 @@ Some thoughts .....
 - The reasonn is if Family commitments is heavy, you can cutdown your passion efforts.
 - If your family commitments slowdown, you can increase your passion
 - Same goes to career, you can be aggressive or "stay the course" as your life commitments demand
+- Gain knowlwdge from books, audios, videos, blogs, talking to aquitances. 
+  - Get different view points, then make your own decision... do not just take direction from anyone..
 
 ## Career Progression
 - Enjoy work
@@ -44,7 +46,7 @@ Some thoughts .....
 ## R career prgression thoughts
 - Corporate will give you comfort but growth may be limited
 - In consulting work may be demanding, but growth is unlimited
-- I am aging myslef here
+  - May be worked for my time, this time is differennt 
 - In startup where our kids are going that may be different, which I have no experience
   - Open for any office man job at any kids startup... I have a few words out many years ago
     - Nothing technical, just making sure office supplies are in, toileraries are sufficient and food order will arrive in time
