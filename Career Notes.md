@@ -64,8 +64,10 @@ Some thoughts .....
     - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
 
 <h1 align="center">
+  <font color ="green">
 Enjoy every moment, every day
 </h1>
 <h1 align="center">
 Do not chase for permanent solution in a temporary life
 </h1>
+</font>
