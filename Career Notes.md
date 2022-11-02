@@ -12,3 +12,6 @@ Some thoughts .....
   - Family
   - Career
   - Volunteer / Passion
+- The reasonn is if Family commitments is heavy, you can cutdown your passion efforts.
+- If your family commitments slowdown, you can increase your passion
+- Same goes to career, you can be aggressive or "stay the course" as your life commitments demand
