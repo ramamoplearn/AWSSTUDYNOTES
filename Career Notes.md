@@ -81,7 +81,9 @@ Enough
   </h1>
   "At a party give by a billionaire, Kurt Vonnegut informs his pal, Josepth Heller, that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history. Heller responds, 'Yes, but I have something he will never have...enough."
 
-
+#
+#
+#
 
 
 R MBTI came as
