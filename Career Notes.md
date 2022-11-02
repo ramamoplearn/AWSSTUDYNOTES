@@ -66,9 +66,9 @@ Some thoughts .....
 
 
 ## Life career choices
-- 1. Enjoy every moment, every day
-- 2. Do not chase for permanent solution in a temporary life
-- 3. Enough
+1. Enjoy every moment, every day
+2. Do not chase for permanent solution in a temporary life
+3. Enough
 
   "At a party give by a billionaire, Kurt Vonnegut informs his pal, Josepth Heller, that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history. Heller responds, 'Yes, but I have something he will never have...enough."
 
