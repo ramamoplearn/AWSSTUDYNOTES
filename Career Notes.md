@@ -64,4 +64,5 @@ Some thoughts .....
     - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
 
 
-# Enjoy every moment, every day, we do chase for the permanent solution in the temporary life
+# Enjoy every moment, every day
+# Do not chase for permanent solution in a temporary life
