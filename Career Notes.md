@@ -64,3 +64,4 @@ Some thoughts .....
     - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
 
 
+
