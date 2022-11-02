@@ -48,9 +48,9 @@ Some thoughts .....
 ## R career prgression thoughts
 - Corporate will give you comfort but growth may be limited
 - In consulting work may be demanding, but growth is unlimited
-  - May be worked for my time, this time is differennt 
-- In startup where this younger gernration are going that may be different, which I have no experience
+  - May be worked for my time, this time is different, you do need to check or validate
+- In startup where this younger generation are going that may be different, which I have no experience
   - Open for any office man job at any kids startup... I have a few words out many years ago
     - Nothing technical, just making sure office supplies are in, toileraries are sufficient and food order will arrive in time
-    - 
+ 
 
