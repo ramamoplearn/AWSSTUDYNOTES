@@ -64,17 +64,17 @@ Some thoughts .....
     - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
     - https://www.16personalities.com/free-personality-test
 
-<h1 align="center">
+<h1 align="left">
   <font color ="green">
 Enjoy every moment, every day
     </font>
   </h1>
- <h1 align="center">
+ <h1 align="left">
   <font color ="green">
 Do not chase for permanent solution in a temporary life
 </h1>
 </font>
-<h1 align="center">
+<h1 align="left">
   <font color ="green">
 Enough 
     </font>
