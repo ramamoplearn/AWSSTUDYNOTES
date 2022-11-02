@@ -9,6 +9,6 @@ Some thoughts .....
 - Have a meaningful work life balance
 - Be eager when as soonn as you can, be eager at a younger age
 - My life I was rewarded to have three priorities 
---  Family
--- Career
--- Volunteer / Passion
+  - Family
+  - Career
+  - Volunteer / Passion
