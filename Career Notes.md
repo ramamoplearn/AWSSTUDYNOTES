@@ -55,5 +55,9 @@ Some thoughts .....
 
 
 ## So what is in there for me 
- 
+ - Did you get your 7% increase in influence the last 3 year or the last 5 years ?
+ - So what you want to do to increase the influence / leverage ?
+ - How can I get noticed from the crowd ?
+ - What is my Strengths 
+ - https://www.amazon.com/StrengthsFinder-2-0-Tom-Rath/dp/159562015X
 
