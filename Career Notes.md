@@ -64,27 +64,12 @@ Some thoughts .....
     - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
     - https://www.16personalities.com/free-personality-test
 
-<h3 align="left">
-  <font color ="green">
-Life career choices
-    </font>
-  </h3>
 
-<h4 align="left">
-  <font color ="green">
-Enjoy every moment, every day
-    </font>
-  </h4>
- <h4 align="left">
-  <font color ="green">
-Do not chase for permanent solution in a temporary life
-</h4>
-</font>
-<h4 align="left">
-  <font color ="green">
-Enough 
-    </font>
-  </h4>
+## Life career choices
+- Enjoy every moment, every day
+- Do not chase for permanent solution in a temporary life
+- Enough
+
   "At a party give by a billionaire, Kurt Vonnegut informs his pal, Josepth Heller, that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history. Heller responds, 'Yes, but I have something he will never have...enough."
 
 #
