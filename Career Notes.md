@@ -69,27 +69,27 @@ Enjoy every moment, every day
 Do not chase for permanent solution in a temporary life
 Enough
 
-<h1 align="left">
+<h2 align="left">
   <font color ="green">
 Life career choices
     </font>
-  </h1>
+  </h2>
 
-<h2 align="left">
+<h3 align="left">
   <font color ="green">
 Enjoy every moment, every day
     </font>
-  </h2>
- <h2 align="left">
+  </h3>
+ <h3 align="left">
   <font color ="green">
 Do not chase for permanent solution in a temporary life
-</h2>
+</h3>
 </font>
-<h2 align="left">
+<h3 align="left">
   <font color ="green">
 Enough 
     </font>
-  </h2>
+  </h3>
   "At a party give by a billionaire, Kurt Vonnegut informs his pal, Josepth Heller, that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history. Heller responds, 'Yes, but I have something he will never have...enough."
 
 #
