@@ -64,6 +64,10 @@ Some thoughts .....
     - https://en.wikipedia.org/wiki/Myers–Briggs_Type_Indicator
     - https://www.16personalities.com/free-personality-test
 
+## Life career choices
+### Enjoy every moment, every day
+### Do not chase for permanent solution in a temporary life
+### Enough
 
 <h1 align="left">
   <font color ="green">
