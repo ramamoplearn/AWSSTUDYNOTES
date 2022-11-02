@@ -11,7 +11,9 @@ Some thoughts .....
 - My life I was rewarded to have three priorities. Three in a box !!!
   - Family
   - Career
-  - Volunteer / Passion. ( not for career, $$$ or family )
+  - Volunteer / Passion. ( not for career, $$$ or family ). P
+    - Pure not for personal gains in status, career or benefits. 
+    - Just for fun, enjoyment, statistaction and giving back our blessings !!!
 - The reasonn is if Family commitments is heavy, you can cutdown your passion efforts.
 - If your family commitments slowdown, you can increase your passion
 - Same goes to career, you can be aggressive or "stay the course" as your life commitments demand
@@ -47,7 +49,7 @@ Some thoughts .....
 - Corporate will give you comfort but growth may be limited
 - In consulting work may be demanding, but growth is unlimited
   - May be worked for my time, this time is differennt 
-- In startup where our kids are going that may be different, which I have no experience
+- In startup where this younger gernration are going that may be different, which I have no experience
   - Open for any office man job at any kids startup... I have a few words out many years ago
     - Nothing technical, just making sure office supplies are in, toileraries are sufficient and food order will arrive in time
 
