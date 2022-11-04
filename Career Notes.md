@@ -85,7 +85,7 @@ Some thoughts .....
 
 
 ## Life career choices
-1. Enjoy every moment, every day
+1. <b> Enjoy every moment, every day </b>
 2. Do not chase for permanent solution in a temporary life
 3. Enough
 
