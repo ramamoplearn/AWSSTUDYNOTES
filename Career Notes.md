@@ -98,3 +98,10 @@ Some thoughts .....
 | <img width="366" alt="image" src="https://user-images.githubusercontent.com/57604313/199532040-a3e4e792-9ef7-43aa-a1f9-06503af3aa19.png"> | <img width="348" alt="image" src="https://user-images.githubusercontent.com/57604313/199533421-480b03f4-a2f8-47e4-84b8-0384129809f8.png">|
 
 
+  
+  # Career in 2030
+  https://www.linkedin.com/posts/mckinsey_new-and-emerging-transversal-technologies-activity-6999346744689848320-ov3X?utm_source=share&utm_medium=member_desktop
+  
+  
+  
+  
