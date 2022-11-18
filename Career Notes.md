@@ -102,6 +102,8 @@ Some thoughts .....
   # Career in 2030
   https://www.linkedin.com/posts/mckinsey_new-and-emerging-transversal-technologies-activity-6999346744689848320-ov3X?utm_source=share&utm_medium=member_desktop
   
+  <img width="757" alt="image" src="https://user-images.githubusercontent.com/57604313/202711854-8f4e795f-34af-46e1-8f4b-a33cae5604e2.png">
+
   
   
   
